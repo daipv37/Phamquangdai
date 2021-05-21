@@ -1,0 +1,9 @@
+Bài1 :Tổng quan về Android 
+Android là một hệ điều hành dựa trên nền tảng Linux ,được chạy trên các thiết bị di động có màn hình cảm ứng như điện thoại thông minh và máy tính bảng. 
+Ban đầu, được phát triển bởi Tổng công ty Android, với nguồn vốn từ Google và sau này được chính Google mua lại vào năm 2005.
+Năm 2007 android ra mắt cùng với tuyên bố thành lập Liên minh thiết bị cầm tay mở: một hiệp hội gồm các công ty phần mềm,
+phần cứng, và viễn thông với mục tiêu đẩy mạnh các tiêu chuẩn cho các thiết bị di động . Tháng 10 năm 2008 chiếc điện thoại đầu tiên chạy Android được bán trên thị trường.
+Kiến trúc hệ điều hành Android có 4 tầng từ dưới lên trên là tầng hạt nhân Linux (phiên bản 2.6), tầng Libraries & Android runtime,
+tầng Application Framework và trên cùng là tầng Application.
+Bài2:
+Em đã cài xong và đã tìm hiểu được cách sử dụng cơ bản của Android Studio qua hướng dẫn của thầy Huy Nguyễn.
